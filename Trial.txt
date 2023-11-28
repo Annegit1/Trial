@@ -1,0 +1,3 @@
+Hello world
+This is a trial version of using GitBash and GitHub.
+Thumbs up!
